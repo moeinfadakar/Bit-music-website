@@ -18,5 +18,5 @@ This project is a music website designed based on quick user access to any type 
 
 ###Screenshots of the project:
 
-![][reference name]
+![screen][screen.png]
 
