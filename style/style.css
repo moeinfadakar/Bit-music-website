@@ -1,0 +1,81 @@
+*{
+    
+    text-decoration: none !important;
+
+    font-family: "Marhey", sans-serif !important;
+    font-optical-sizing: auto !important;
+    font-weight: 600 !important;
+    font-style: normal !important;
+
+}
+.back-ground{
+    background: linear-gradient(to buttom , green , white , red);
+}
+
+.end{
+height: 30em;
+
+}
+.alter{
+    transform: scale(1.1,1.1);
+}
+.ax{
+
+    width: 100%;
+    height: 30em;
+
+}
+.box{
+    box-shadow: 10px 10px 4px 1px rgb(170, 170, 170);
+
+
+}
+.box:hover{
+box-shadow: 0px 0px 0px 0px ;
+
+}
+.rad{
+    border-radius: 4%;
+
+}
+.window{
+width: 200px;
+
+}
+.window:hover{
+
+  transform: scale(1.1,1.1);
+transition: 0.5s;
+}
+.inline{
+    display: inline;
+    text-decoration: none;
+}
+#noline{
+text-decoration: none !important;
+}
+.inline{
+    display: inline !important;
+    color: black;
+}
+
+.selector{
+
+width: 30% ;
+height: 20px;
+background: lightgray;
+color: rgb(41, 41, 41);
+border-radius: 10%;
+
+
+}
+.selector:hover{
+
+background: lightcoral;
+transform: scale(1.1,1.1);
+
+    
+    }
+.sel{
+    height: 50vh !important;
+}

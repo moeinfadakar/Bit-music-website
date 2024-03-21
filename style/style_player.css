@@ -1,0 +1,16 @@
+.color{
+	padding: 20px !important;
+	background-color: rgb(245, 245, 245);
+
+}
+.height{
+	height: 25vh !important;
+
+}
+.botton{
+	padding: 10px;
+}
+.botton:hover{
+	padding: 10px;
+	border: dotted rgb(255, 255, 255) 2px !important;
+}
