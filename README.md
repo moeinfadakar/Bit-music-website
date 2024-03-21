@@ -20,3 +20,4 @@ This project is a music website designed based on quick user access to any type 
 
 ![screen.png…](screen.png)
 
+## Designed [moein_fadakar](https://github.com/moeinfadakar) by with love
