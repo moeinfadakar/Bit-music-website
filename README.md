@@ -1,5 +1,5 @@
 # Music website 
-<hr>
+
 
 This project is a music website designed based on quick user access to any type of music based on features (language, genre, etc.).
 
@@ -11,10 +11,10 @@ This project is a music website designed based on quick user access to any type 
 
 ### The features that will be added are as follows:
 
-[] Responsive
-[] Add more tracks , singers , albums and etc...
-[] Search to find a specific item
-[] Profile for users
+* [] Responsive
+* [] Add more tracks , singers , albums and etc...
+* [] Search to find a specific item
+* [] Profile for users
 
 ###Screenshots of the project:
 
