@@ -16,7 +16,7 @@ This project is a music website designed based on quick user access to any type 
 * [] Search to find a specific item
 * [] Profile for users
 
-###Screenshots of the project:
+### Screenshots of the project:
 
 ![screen.png…](screen.png)
 
