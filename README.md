@@ -1,4 +1,4 @@
-![screen](https://github.com/moeinfadakar/music-website/assets/109180018/577179d2-50b5-496f-ba51-75f376f12432)# Music website 
+
 
 
 This project is a music website designed based on quick user access to any type of music based on features (language, genre, etc.).
